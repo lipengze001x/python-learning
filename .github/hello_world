@@ -1,4 +1,8 @@
-##step 1: creat your own space
+## djaiadj
+1. dadad
+2.dadasd
+greeting_message= "hello python world!"
+print(greeting_message)
 
-message="hello python world!"
-print(message)
+greeting_message= "hello python crash course world!"
+print(greeting_message)
