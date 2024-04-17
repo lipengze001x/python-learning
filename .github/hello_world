@@ -1,2 +1,4 @@
+##step 1: creat your own space
+
 message="hello python world!"
 print(message)
